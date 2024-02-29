@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628831902725",
+    "project_id": "webviewapp-b4180",
+    "storage_bucket": "webviewapp-b4180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628831902725:android:b9193c2d9e48b71d9f506c",
+        "android_client_info": {
+          "package_name": "com.example.easaac_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDG8Bw8mlkoyLAZMYp-NAt13VbL3DkXxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
